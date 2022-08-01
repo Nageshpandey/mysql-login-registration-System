@@ -4,7 +4,7 @@
 
 MySql Data Show
 
-![image](https://user-images.githubusercontent.com/106422008/182209476-5283f8b0-116d-4782-9103-b371dbd573b5.png=250x250)
+![image](https://user-images.githubusercontent.com/106422008/182209476-5283f8b0-116d-4782-9103-b371dbd573b5.png =250*250)
 
 How to run this project: 
 
