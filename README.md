@@ -1,8 +1,10 @@
-# tutorial-youtube (Login, register with Passport middleware)
+# Login, register with Passport middleware
 
 **Project : A login/register sytem using NodeJS platform (NodeJS + MySQL + Bootstrap 4).**
 
-View full tutorial on youtube: https://www.youtube.com/watch?v=DcB1Ge0HQ4I&list=PLNOjHC_BXrfCNWe0ghCxEmNVeHN_J5K3k
+MySql Data Show
+<img src="![image](https://user-images.githubusercontent.com/106422008/182209476-5283f8b0-116d-4782-9103-b371dbd573b5.png)
+">
 
 How to run this project: 
 
